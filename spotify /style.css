@@ -14,20 +14,66 @@ header div {
     display: flex;
     width: 80%;
     justify-content: space-between;
-    margin:auto
+    margin: auto
 }
 
 .spotify-logo {
     width: 150px;
 }
 
-    .menu {
-        color: aliceblue;
-        display: flex;
-        align-items: center;
-        list-style: none;
-    }
+.menu {
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
 
-    .menu li {
-        margin-left: 20px;
-    }
+.menu li {
+    margin-left: 20px;
+}
+
+.section-premium {
+    background-color: rgb(45, 70, 185);
+    color: white;
+}
+
+.section-premium div {
+    width: 80%;
+    margin: auto;
+}
+
+.section-premium h1 {
+    font-size: 40px;
+    padding: 40px 0;
+}
+
+.section-premium h2 {
+    font-size: 20px;
+    padding-bottom: 40px;
+}
+
+.section-premium p {
+    margin-top: 30px;
+    padding-bottom: 30px;
+    font-size: 10px;
+}
+
+.section-premium a {
+    color: white;
+}
+
+#btn-Comece-agora {
+    background-color: black;
+    color: white;
+    padding: 15px 35px;
+    border-radius: 100px;
+    border: 1px solid black;
+}
+
+#btn-Ver-planos {
+    background-color: rgb(45, 70, 185);
+    border: 1px solid white;
+    color: white;
+    padding: 15px 35px;
+    border-radius: 100px;
+}
