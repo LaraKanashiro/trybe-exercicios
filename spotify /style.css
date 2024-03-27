@@ -77,3 +77,32 @@ header div {
     padding: 15px 35px;
     border-radius: 100px;
 }
+
+.section-why-primum {
+    text-align: center;
+    width: 80%;
+    margin:auto;
+}
+
+.section-why-primum h2 {
+    font-size: 30px;
+    padding: 70px 0;
+}
+
+.premium-items {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.premium-items img {
+    width: 120px;
+    padding-bottom: 20px;
+}
+
+.premium-items div {
+    padding: 0 40px 70px 40px;
+}
+
+.premium-items h4 {
+    padding-bottom: 10px;
+}
