@@ -106,3 +106,52 @@ header div {
 .premium-items h4 {
     padding-bottom: 10px;
 }
+
+.section-chose-plan {
+    background-color:#f8f8f8;
+}
+
+.section-chose-plan div {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+ 
+.section-chose-plan h2 {
+    font-size: 30px;
+    padding-top: 70px;
+}
+
+.section-chose-plan h3 {
+    font-size: 15px;
+    padding: 10px 0;
+}
+
+.credit-cards {
+    display: flex;
+    justify-content: center;
+}
+
+.credit-cards img {
+    width: 25px;
+}
+
+ .section-plan {
+    display: flex;
+    height: 700px;
+    max-width: 900px;
+    margin: auto;
+ }
+
+ .plan-style {
+    background-color: white;
+    box-shadow: 1px 1px 5px rgb(141, 141, 141);
+    border-radius: 7px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    height: 500px;
+    max-width: 180px;
+    font-size: 15px;
+ }
