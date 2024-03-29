@@ -30,7 +30,8 @@ header div {
 }
 
 .menu li:hover {
-   color: #1ed760;;
+    color: #1ed760;
+    ;
 }
 
 .menu li {
@@ -241,6 +242,10 @@ footer li {
     font-size: 10px;
 }
 
+footer li:hover {
+    color: #1ed760;
+}
+
 footer img {
     width: 150px;
     padding-right: 20px;
@@ -249,5 +254,16 @@ footer img {
 footer i {
     color: white;
     font-size: 20px;
+    padding: 0 10px;
+}
+
+.links {
+    background-color: black;
+}
+
+.links p a {
+    color: white;
+    font-size: 10px;
+    justify-content: center;
     padding: 0 10px;
 }
