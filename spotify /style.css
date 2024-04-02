@@ -77,7 +77,7 @@ header div {
 }
 
 #btn-Comece-agora:hover {
-    padding: 20px 40px;
+    padding: 18px 40px;
 }
 
 #btn-Ver-planos {
@@ -86,6 +86,10 @@ header div {
     color: white;
     padding: 15px 35px;
     border-radius: 100px;
+}
+
+#btn-Ver-planos:hover {
+    padding: 18px 40px;
 }
 
 .section-why-primum {
@@ -233,17 +237,17 @@ footer a {
     text-decoration: none;
 }
 
+footer a:hover{
+    color: #1ed760;
+}
+
 footer li:nth-child(1) {
     padding-bottom: 20px;
 }
 
 footer li {
     padding: 10px 20px;
-    font-size: 10px;
-}
-
-footer li:hover {
-    color: #1ed760;
+    font-size: 15px;
 }
 
 footer img {
@@ -257,6 +261,10 @@ footer i {
     padding: 0 10px;
 }
 
+footer i:hover {
+    color: #1ed760; 
+}
+
 .links {
     background-color: black;
 }
@@ -264,6 +272,15 @@ footer i {
 .links p a {
     color: white;
     font-size: 10px;
-    justify-content: center;
     padding: 0 10px;
+    display: flex;
+    margin-top: auto;
+}
+
+.links p a:hover {
+    color: #1ed760;
+}
+
+.btn-Comece-agora:hover {
+    padding: 15px 40px;
 }
