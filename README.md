@@ -1,1 +1,1 @@
-Aqui estão os meus exercicios da trybe :) 
+Aqui estão os meus exercicios :) 
